@@ -1,1 +1,1 @@
-https://my-portfolio-orcin-eight-83.vercel.app/
+https://euphonious-capybara-c2a751.netlify.app/
